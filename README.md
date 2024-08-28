@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavith Rashintha</h1>
 <h3 align="center">Undergraduate at Faculty of Information Technology, University of Moratuwa || Software Developer || Tech Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavithrashintha" alt="kavithrashintha" /></a> </p>
-
 - 🌱 I’m currently learning **Software Engineering, Machine Learning**
 
 - 📫 How to reach me **wgkrashintha@gmail.com**
@@ -19,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavithrashintha&show_icons=true&locale=en&layout=compact" alt="kavithrashintha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavithrashintha&show_icons=true&locale=en" alt="kavithrashintha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavithrashintha&" alt="kavithrashintha" /></p>
